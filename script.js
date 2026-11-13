@@ -9,4 +9,5 @@ function sleep_in(weekday,vacation){
 
 function string_times(str,num){
     return str;
+    return ("false");
 }
